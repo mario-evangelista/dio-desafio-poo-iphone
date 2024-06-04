@@ -83,8 +83,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 A estrutura do repositório deve ser algo como:
 
 ```
-dio-desafio-poo-iphone/
-├── src/
+desafios/
+├── poo/
 │   ├── ReprodutorMusical.java
 │   ├── AparelhoTelefonico.java
 │   ├── NavegadorNaInternet.java
