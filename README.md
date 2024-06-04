@@ -76,6 +76,15 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
+
 
 ### Estrutura do Repositório
+
+desafios/
+├── poo/
+│   ├── ReprodutorMusical.java
+│   ├── AparelhoTelefonico.java
+│   ├── NavegadorNaInternet.java
+│   ├── iPhone.java
+│   ├── diagrama_uml.png
+│   └── README.md
