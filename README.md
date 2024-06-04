@@ -13,6 +13,7 @@ Este projeto modela e implementa as funcionalidades básicas do iPhone de 2007, 
 
 ## Diagrama UML (Mermaid)
 
+```mermaid
 classDiagram
     class iPhone {
         +void tocar()
@@ -50,7 +51,7 @@ classDiagram
     iPhone ..|> ReprodutorMusical
     iPhone ..|> AparelhoTelefonico
     iPhone ..|> NavegadorNaInternet
-
+```
 
 ![Diagrama UML](diagrama_uml.png)
 
