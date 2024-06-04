@@ -79,16 +79,3 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 ```
 
 ### Estrutura do Repositório
-
-A estrutura do repositório deve ser algo como:
-
-```
-desafios/
-├── poo/
-│   ├── ReprodutorMusical.java
-│   ├── AparelhoTelefonico.java
-│   ├── NavegadorNaInternet.java
-│   ├── iPhone.java
-│   ├── diagrama_uml.png
-│   └── README.md
-```
