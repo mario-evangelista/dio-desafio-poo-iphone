@@ -1,5 +1,7 @@
 # Desafio POO - iPhone
 
+Projeto desenvolvido para o Desafio JAVA POO - Modelagem e Diagramação de um Componente iPhone - DIO SANTANDER DEV WEEK 2024
+
 Este projeto modela e implementa as funcionalidades básicas do iPhone de 2007, incluindo Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 ## Estrutura do Projeto
@@ -88,8 +90,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 A estrutura do repositório deve ser algo como:
 
 ```
-desafios/
-├── poo/
+dio-desafio-poo-iphone/
+├── src/
 │   ├── ReprodutorMusical.java
 │   ├── AparelhoTelefonico.java
 │   ├── NavegadorNaInternet.java
@@ -97,5 +99,3 @@ desafios/
 │   ├── diagrama_uml.png
 │   └── README.md
 ```
-
-Certifique-se de que todos os arquivos estão no local correto e referenciados corretamente no README.md.
