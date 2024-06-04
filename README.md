@@ -78,13 +78,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
 
-### Passos para Adicionar o README.md ao seu Repositório
-
-1. Crie um arquivo chamado `README.md` no diretório raiz do seu projeto.
-2. Copie e cole o conteúdo acima no arquivo `README.md`.
-3. Adicione o diagrama UML (uma imagem do diagrama que você criou) no repositório e ajuste o link da imagem no README.md, se necessário.
-4. Faça commit e push do arquivo README.md para o seu repositório GitHub.
-
 ### Estrutura do Repositório
 
 A estrutura do repositório deve ser algo como:
