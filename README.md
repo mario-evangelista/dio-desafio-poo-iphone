@@ -78,11 +78,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 
-### Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
-desafios/
-├── poo/
+dio-desafio-poo-iphone/
+├── src/
 │   ├── ReprodutorMusical.java
 │   ├── AparelhoTelefonico.java
 │   ├── NavegadorNaInternet.java
